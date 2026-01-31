@@ -1,14 +1,14 @@
 # Hi 👋, I'm Ayush Yash Dwivedi
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=520&height=32&lines=Aditya+Sharma;Aspiring+Software+Engineer;Strong+in+DSA+%7C+Problem+Solving;Building+Scalable+Applications"
+    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=520&height=32&lines=Ayush Yash Dwivedi;Aspiring+Software+Engineer;Strong+in+DSA+%7C+Problem+Solving;Building+Scalable+Applications"
     alt="Typing SVG"
   />
 </p>
 
 
 # 💫 About Me:
-Passionate about coding and problem-solving, with strong foundations in Data Structures, Algorithms, OOP, DBMS, OS, and Computer Networks. Skilled in C, C++, Java, and Python. Pursuing Bachelor of Technology degree in Artificial Intelligence and Machine Learning at Noida Institute of Engineering and Technology (NIET), Class of 2027, exploring Machine Learning, and strengthening analytical skills through LeetCode practice for technical interviews.
+Passionate about coding and problem-solving, with strong foundations in Data Structures, Algorithms, OOP, DBMS, OS, and Computer Networks. Skilled in C,Java, and Python. Pursuing Bachelor of Technology degree in Artificial Intelligence and Machine Learning at Noida Institute of Engineering and Technology (NIET), Class of 2027, exploring Machine Learning, and strengthening analytical skills through LeetCode practice for technical interviews.
 
 
 ## 🌐 Socials:
