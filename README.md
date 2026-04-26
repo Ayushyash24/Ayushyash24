@@ -1,10 +1,10 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Yash%20Dwivedi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Yash%20Dwivedi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=57&descSize=16" width="100%"/>
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;NIET+B.Tech+AI%2FML+%E2%80%94+Class+of+2027;DSA+%7C+ML+%7C+Full-Stack+%7C+Cloud+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8A2BE2&style=flat-square&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=620&lines=Building+Intelligent+Systems+%F0%9F%A4%96;NIET+B.Tech+AI%2FML+%E2%80%94+Class+of+2027;DSA+%7C+ML+%7C+Full-Stack+%7C+Cloud+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" height="220" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" height="220" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 🎓 &nbsp;B.Tech in **Artificial Intelligence & Machine Learning** at **NIET Greater Noida** *(Class of 2027)*
 
@@ -38,12 +38,12 @@
 
 <div align="center">
 
-| &nbsp; | Project | Description | Live |
-|:---:|:---|:---|:---:|
-| 🏠 | **PropVista** — Smart Property Analytics | ML-powered price prediction & market analysis for Gurgaon real estate | [![Live](https://img.shields.io/badge/🚀_Open_App-PropVista-8A2BE2?style=for-the-badge)](https://YOUR_PROPVISTA_LINK) |
-| 🌿 | **WebWellSpring** — Student Well-being Platform | GPT-powered mental health chatbot with mood tracking & sentiment analysis | [![Live](https://img.shields.io/badge/🚀_Open_App-WebWellSpring-2ecc71?style=for-the-badge)](https://YOUR_WEBWELLSPRING_LINK) |
-| 🛒 | **MERN E-Commerce** — Full Stack Shop | Complete shopping platform with cart, auth & order management | [![Live](https://img.shields.io/badge/🚀_Open_App-ECommerce-e67e22?style=for-the-badge)](https://YOUR_ECOMMERCE_LINK) |
-| 🧠 | **Project 4** — Add your title | Add your description | [![Live](https://img.shields.io/badge/🚀_Open_App-Project_4-e74c3c?style=for-the-badge)](https://YOUR_PROJECT4_LINK) |
+| &nbsp; | Project | Description | Live | Repo |
+|:---:|:---|:---|:---:|:---:|
+| 🏠 | **PropVista** — Smart Property Analytics | ML-powered price prediction & market analysis for Gurgaon real estate | [![Live](https://img.shields.io/badge/🚀_Open_App-8A2BE2?style=for-the-badge)](https://ayush-yash-propvista.streamlit.app/) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ayushyash24/Smart-Property-Analytics-Visualization) |
+| 📊 | **Smart Analytics** — Property Visualization | Advanced visualization dashboard for real estate data trends & insights | [![Live](https://img.shields.io/badge/🚀_Open_App-1abc9c?style=for-the-badge)](https://smart-property-analytics-visualization.streamlit.app/) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ayushyash24/Smart-Property-Analytics-Visualization) |
+| 🌿 | **WebWellSpring** — Student Well-being Platform | GPT-powered mental health chatbot with mood tracking & sentiment analysis | [![Live](https://img.shields.io/badge/🚀_Open_App-2ecc71?style=for-the-badge)](http://web-well-spring.vercel.app) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ayushyash24/WebWellSpring) |
+| 🛒 | **MERN E-Commerce** — Full Stack Shop | Complete shopping platform with cart, auth & order management | [![Live](https://img.shields.io/badge/🚀_Open_App-e67e22?style=for-the-badge)](https://mern-ecommerce-frontend-gamma.vercel.app/login) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ayushyash24) |
 
 </div>
 
@@ -56,7 +56,7 @@
     <td width="50%">
       <h3>🏠 PropVista</h3>
       <p><b>Smart Property Analytics & Visualization</b></p>
-      <p>Full-stack ML app for Gurgaon property price prediction, market analysis & recommendations. Deployed on AWS via Streamlit with SHAP/LIME explainability and interactive Plotly dashboards.</p>
+      <p>Full-stack ML app for Gurgaon property price prediction, market analysis & recommendations. Deployed on Streamlit with SHAP/LIME explainability and interactive Plotly dashboards.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
@@ -80,7 +80,7 @@
     <td width="50%">
       <h3>🛒 MERN E-Commerce</h3>
       <p><b>Full-Stack Shopping Platform</b></p>
-      <p>Feature-rich e-commerce application with product management, cart, authentication, and order tracking. Built with the complete MERN stack and deployed on cloud infrastructure.</p>
+      <p>Feature-rich e-commerce application with product management, cart, authentication, and order tracking. Built with the complete MERN stack and deployed on Vercel.</p>
       <p>
         <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white"/>
@@ -163,11 +163,12 @@
 
 | | |
 |:---:|:---|
-| 🔭 | Exploring **LLMs, RAG pipelines & Transformer architectures** |
 | 🏗️ | Shipping **production-grade ML + full-stack apps** |
 | ⚔️ | Daily **LeetCode & DSA** grind for placement season |
 | ☁️ | Deepening **AWS, Docker & FastAPI** for scalable deployments |
 | 📖 | Studying **NLP, Social Media Analytics & Data Engineering** |
+| 🤝 | Open to **internships, collaborations & open-source** contributions |
+| 🧩 | Improving **system design** thinking for scalable architectures |
 
 </div>
 
