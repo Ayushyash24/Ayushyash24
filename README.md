@@ -89,13 +89,14 @@
       </p>
     </td>
     <td width="50%">
-      <h3>🧠 Multi-Head Self-Attention (NLP)</h3>
-      <p><b>Transformer Architecture from Scratch</b></p>
-      <p>Implemented multi-head self-attention from scratch in PyTorch (no nn.MultiheadAttention), fine-tuned on IMDb dataset with interactive attention heatmap visualization.</p>
+      <h3>📊 Smart Property Analytics</h3>
+      <p><b>Real Estate Data Visualization Dashboard</b></p>
+      <p>Advanced analytics dashboard for visualizing Gurgaon real estate trends — sector-wise price heatmaps, BHK distribution, price-per-sqft analysis, and market comparison charts powered by Plotly & Streamlit.</p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -169,6 +170,29 @@
 | 📖 | Studying **NLP, Social Media Analytics & Data Engineering** |
 | 🤝 | Open to **internships, collaborations & open-source** contributions |
 | 🧩 | Improving **system design** thinking for scalable architectures |
+
+</div>
+
+---
+
+## 📊 Skills at a Glance
+
+```text
+Machine Learning       ████████████████░░░░   80%
+Python                 ██████████████████░░   90%
+Data Structures & Algo ███████████████░░░░░   75%
+Full-Stack (MERN)      ██████████████░░░░░░   70%
+Deep Learning / NLP    ████████████░░░░░░░░   60%
+Cloud & DevOps         ██████████░░░░░░░░░░   50%
+```
+
+---
+
+## 🏅 Coding Profiles
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ayushyash_2404?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/u/Ayushyash_2404/)
 
 </div>
 
