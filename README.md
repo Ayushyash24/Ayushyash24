@@ -206,9 +206,151 @@ Cloud & DevOps         ██████████░░░░░░░░░
 
 ---
 
-<!-- Snake Animation -->
+## 🌌 Skill Constellation
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<svg width="100%" viewBox="0 0 680 400" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Ayush's Skill Constellation</title>
+<desc>Animated neural network style constellation showing technical skills as connected glowing nodes</desc>
+<defs>
+  <filter id="blur1"><feGaussianBlur stdDeviation="3"/></filter>
+  <style>
+    .conn{stroke-width:1;fill:none;opacity:.22}
+    .conn-pulse{stroke-width:1.5;fill:none;opacity:0}
+    .skill-label{font-family:'JetBrains Mono',monospace,sans-serif;font-size:11px;font-weight:600;text-anchor:middle}
+    .center-label{font-family:'JetBrains Mono',monospace,sans-serif;font-size:13px;font-weight:700;text-anchor:middle}
+    .cat-label{font-family:sans-serif;font-size:10px;font-weight:400;text-anchor:middle;opacity:.7}
+    @keyframes pulse-ring{0%{r:10;opacity:.8}50%{r:16;opacity:.3}100%{r:10;opacity:.8}}
+    @keyframes pulse-center{0%{r:22}50%{r:26}100%{r:22}}
+    @keyframes travel{0%{stroke-dashoffset:200;opacity:0}10%{opacity:.6}90%{opacity:.6}100%{stroke-dashoffset:0;opacity:0}}
+    @keyframes float1{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+    @keyframes twinkle{0%,100%{opacity:1}50%{opacity:.35}}
+    .p1{animation:pulse-ring 2.4s ease-in-out infinite}
+    .p2{animation:pulse-ring 2.8s ease-in-out infinite .3s}
+    .p3{animation:pulse-ring 2.2s ease-in-out infinite .6s}
+    .p4{animation:pulse-ring 3s ease-in-out infinite .9s}
+    .p5{animation:pulse-ring 2.6s ease-in-out infinite 1.2s}
+    .p6{animation:pulse-ring 2.4s ease-in-out infinite .5s}
+    .p7{animation:pulse-ring 2.8s ease-in-out infinite 1s}
+    .pc{animation:pulse-center 2s ease-in-out infinite}
+    .f1{animation:float1 3.5s ease-in-out infinite}
+    .f2{animation:float1 4s ease-in-out infinite .5s}
+    .f3{animation:float1 3.2s ease-in-out infinite 1s}
+    .f4{animation:float1 4.2s ease-in-out infinite .2s}
+    .f5{animation:float1 3.8s ease-in-out infinite .8s}
+    .f6{animation:float1 3.4s ease-in-out infinite 1.3s}
+    .f7{animation:float1 4.4s ease-in-out infinite .4s}
+    .tw1{animation:twinkle 2s ease-in-out infinite}
+    .tw2{animation:twinkle 2.5s ease-in-out infinite .4s}
+    .tw3{animation:twinkle 1.8s ease-in-out infinite .8s}
+    .tw4{animation:twinkle 3s ease-in-out infinite .2s}
+    .tw5{animation:twinkle 2.2s ease-in-out infinite 1s}
+    .la{stroke-dasharray:200;animation:travel 3s ease-in-out infinite}
+    .la2{animation-delay:.6s}.la3{animation-delay:1.2s}.la4{animation-delay:1.8s}
+    .la5{animation-delay:2.4s}.la6{animation-delay:.3s}.la7{animation-delay:.9s}
+  </style>
+</defs>
+<!-- Stars -->
+<circle cx="60" cy="30" r="1.2" fill="#8A2BE2" class="tw1" opacity=".4"/>
+<circle cx="150" cy="20" r="1" fill="#3498db" class="tw2" opacity=".35"/>
+<circle cx="310" cy="15" r="1.5" fill="#2ecc71" class="tw3" opacity=".4"/>
+<circle cx="480" cy="25" r="1" fill="#8A2BE2" class="tw4" opacity=".35"/>
+<circle cx="620" cy="35" r="1.2" fill="#3498db" class="tw5" opacity=".4"/>
+<circle cx="50" cy="200" r="1" fill="#2ecc71" class="tw2" opacity=".3"/>
+<circle cx="635" cy="180" r="1.2" fill="#8A2BE2" class="tw1" opacity=".35"/>
+<circle cx="90" cy="370" r="1" fill="#3498db" class="tw3" opacity=".3"/>
+<circle cx="590" cy="360" r="1.5" fill="#2ecc71" class="tw4" opacity=".35"/>
+<circle cx="340" cy="390" r="1" fill="#8A2BE2" class="tw5" opacity=".3"/>
+<!-- Static connections -->
+<line x1="340" y1="200" x2="340" y2="75" stroke="#8A2BE2" class="conn"/>
+<line x1="340" y1="200" x2="180" y2="110" stroke="#3498db" class="conn"/>
+<line x1="340" y1="200" x2="130" y2="230" stroke="#3498db" class="conn"/>
+<line x1="340" y1="200" x2="200" y2="330" stroke="#2ecc71" class="conn"/>
+<line x1="340" y1="200" x2="490" y2="330" stroke="#2ecc71" class="conn"/>
+<line x1="340" y1="200" x2="555" y2="230" stroke="#3498db" class="conn"/>
+<line x1="340" y1="200" x2="500" y2="110" stroke="#8A2BE2" class="conn"/>
+<line x1="340" y1="75" x2="180" y2="110" stroke="#8A2BE2" class="conn"/>
+<line x1="180" y1="110" x2="130" y2="230" stroke="#3498db" class="conn"/>
+<line x1="130" y1="230" x2="200" y2="330" stroke="#2ecc71" class="conn"/>
+<line x1="200" y1="330" x2="490" y2="330" stroke="#2ecc71" class="conn"/>
+<line x1="490" y1="330" x2="555" y2="230" stroke="#3498db" class="conn"/>
+<line x1="555" y1="230" x2="500" y2="110" stroke="#8A2BE2" class="conn"/>
+<line x1="500" y1="110" x2="340" y2="75" stroke="#8A2BE2" class="conn"/>
+<!-- Animated pulses -->
+<line x1="340" y1="200" x2="340" y2="75" stroke="#8A2BE2" class="conn-pulse la"/>
+<line x1="340" y1="200" x2="180" y2="110" stroke="#3498db" class="conn-pulse la la2"/>
+<line x1="340" y1="200" x2="130" y2="230" stroke="#3498db" class="conn-pulse la la3"/>
+<line x1="340" y1="200" x2="200" y2="330" stroke="#2ecc71" class="conn-pulse la la4"/>
+<line x1="340" y1="200" x2="490" y2="330" stroke="#2ecc71" class="conn-pulse la la5"/>
+<line x1="340" y1="200" x2="555" y2="230" stroke="#3498db" class="conn-pulse la la6"/>
+<line x1="340" y1="200" x2="500" y2="110" stroke="#8A2BE2" class="conn-pulse la la7"/>
+<!-- CENTER — AI/ML -->
+<g class="f1">
+  <circle cx="340" cy="200" r="28" fill="#8A2BE2" opacity=".15" filter="url(#blur1)"/>
+  <circle cx="340" cy="200" r="22" fill="#1a0a2e" stroke="#8A2BE2" stroke-width="2" class="pc"/>
+  <circle cx="340" cy="200" r="10" fill="#8A2BE2" opacity=".9"/>
+  <text x="340" y="196" class="center-label" fill="#e8d5ff">AI / ML</text>
+  <text x="340" y="210" class="cat-label" fill="#c9a8ff">core</text>
+</g>
+<!-- NODE 1 — Python -->
+<g class="f2">
+  <circle cx="340" cy="75" r="18" fill="#3670A0" opacity=".15" filter="url(#blur1)"/>
+  <circle cx="340" cy="75" r="14" fill="#0d1f30" stroke="#4a9eda" stroke-width="1.5" class="p1"/>
+  <circle cx="340" cy="75" r="7" fill="#4a9eda" opacity=".95"/>
+  <text x="340" y="72" class="skill-label" fill="#b8dff8">Python</text>
+  <text x="340" y="83" class="cat-label" fill="#7ab8e0">language</text>
+</g>
+<!-- NODE 2 — React -->
+<g class="f3">
+  <circle cx="180" cy="110" r="18" fill="#61DAFB" opacity=".1" filter="url(#blur1)"/>
+  <circle cx="180" cy="110" r="14" fill="#0d2030" stroke="#61DAFB" stroke-width="1.5" class="p2"/>
+  <circle cx="180" cy="110" r="7" fill="#61DAFB" opacity=".9"/>
+  <text x="180" y="107" class="skill-label" fill="#b8f0fd">React</text>
+  <text x="180" y="118" class="cat-label" fill="#7ae0f5">full-stack</text>
+</g>
+<!-- NODE 3 — DSA -->
+<g class="f4">
+  <circle cx="130" cy="230" r="18" fill="#e67e22" opacity=".12" filter="url(#blur1)"/>
+  <circle cx="130" cy="230" r="14" fill="#1e1205" stroke="#e67e22" stroke-width="1.5" class="p3"/>
+  <circle cx="130" cy="230" r="7" fill="#e67e22" opacity=".9"/>
+  <text x="130" y="227" class="skill-label" fill="#fad7b0">DSA</text>
+  <text x="130" y="238" class="cat-label" fill="#f0b060">algorithms</text>
+</g>
+<!-- NODE 4 — Flask -->
+<g class="f5">
+  <circle cx="200" cy="330" r="18" fill="#2ecc71" opacity=".12" filter="url(#blur1)"/>
+  <circle cx="200" cy="330" r="14" fill="#0a1f12" stroke="#2ecc71" stroke-width="1.5" class="p4"/>
+  <circle cx="200" cy="330" r="7" fill="#2ecc71" opacity=".9"/>
+  <text x="200" y="327" class="skill-label" fill="#a8f0c6">Flask</text>
+  <text x="200" y="338" class="cat-label" fill="#70d898">backend</text>
+</g>
+<!-- NODE 5 — MongoDB -->
+<g class="f6">
+  <circle cx="490" cy="330" r="18" fill="#4ea94b" opacity=".12" filter="url(#blur1)"/>
+  <circle cx="490" cy="330" r="14" fill="#0a1f0a" stroke="#4ea94b" stroke-width="1.5" class="p5"/>
+  <circle cx="490" cy="330" r="7" fill="#4ea94b" opacity=".9"/>
+  <text x="490" y="327" class="skill-label" fill="#a8e0a6">MongoDB</text>
+  <text x="490" y="338" class="cat-label" fill="#78c876">database</text>
+</g>
+<!-- NODE 6 — AWS -->
+<g class="f7">
+  <circle cx="555" cy="230" r="18" fill="#FF9900" opacity=".12" filter="url(#blur1)"/>
+  <circle cx="555" cy="230" r="14" fill="#1e1200" stroke="#FF9900" stroke-width="1.5" class="p6"/>
+  <circle cx="555" cy="230" r="7" fill="#FF9900" opacity=".9"/>
+  <text x="555" y="227" class="skill-label" fill="#fde9b5">AWS</text>
+  <text x="555" y="238" class="cat-label" fill="#f5c860">cloud</text>
+</g>
+<!-- NODE 7 — PyTorch -->
+<g class="f2">
+  <circle cx="500" cy="110" r="18" fill="#EE4C2C" opacity=".12" filter="url(#blur1)"/>
+  <circle cx="500" cy="110" r="14" fill="#200a05" stroke="#EE4C2C" stroke-width="1.5" class="p7"/>
+  <circle cx="500" cy="110" r="7" fill="#EE4C2C" opacity=".9"/>
+  <text x="500" y="107" class="skill-label" fill="#f8bfb0">PyTorch</text>
+  <text x="500" y="118" class="cat-label" fill="#f08878">deep learning</text>
+</g>
+</svg>
+
 </div>
 
 ---
