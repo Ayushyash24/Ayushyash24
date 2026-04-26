@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Ayush Yash Dwivedi" height="220" width="220" src="https://raw.githubusercontent.com/Ayushyash24/Ayushyash24/main/WhatsApp%20Image%202026-04-26%20at%207.42.57%20PM.jpeg"/>
+<img align="right" alt="AI ML Animation" height="220" width="280" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 🎓 &nbsp;B.Tech in **Artificial Intelligence & Machine Learning** at **NIET Greater Noida** *(Class of 2027)*
 
