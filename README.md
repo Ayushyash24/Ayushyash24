@@ -12,12 +12,23 @@
 
 ## 🧠 About Me
 
-<p align="left">
-  🌐 <b>Portfolio:</b> 
-  <a href="https://www.aydubuilds24.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+### 🌐 My Portfolio
+
+<a href="https://www.aydbulilds24.in/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="55"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Live-Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+</div>
+
+---
 
 <img align="right" alt="AI ML Animation" height="220" width="280" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
@@ -63,12 +74,12 @@
     <td width="50%">
       <h3>🏠 PropVista</h3>
       <p><b>Smart Property Analytics & Visualization</b></p>
-      <p>Full-stack ML app for Gurgaon property price prediction, market analysis & recommendations. Deployed on Streamlit with SHAP/LIME explainability and interactive Plotly dashboards.</p>
+      <p>Full-stack ML app for Gurgaon property price prediction, market analysis & recommendations with explainability & dashboards.</p>
     </td>
     <td width="50%">
       <h3>🌿 WebWellSpring</h3>
       <p><b>Student Mental Well-being Platform</b></p>
-      <p>React/Vite + Flask app with a GPT-powered sentiment analysis chatbot designed to support student mental health.</p>
+      <p>GPT-powered chatbot with mood tracking & sentiment insights for student mental health.</p>
     </td>
   </tr>
 </table>
