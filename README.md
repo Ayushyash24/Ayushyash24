@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" height="220" width="280" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
+<img align="right" alt="Ayush Yash Dwivedi" height="220" width="220" src="https://raw.githubusercontent.com/Ayushyash24/Ayushyash24/main/WhatsApp%20Image%202026-04-26%20at%207.42.57%20PM.jpeg"/>
 
 🎓 &nbsp;B.Tech in **Artificial Intelligence & Machine Learning** at **NIET Greater Noida** *(Class of 2027)*
 
@@ -210,7 +210,6 @@ Cloud & DevOps         ██████████░░░░░░░░░
 
 ---
 
-<!-- Pac-Man contribution animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ayushyash24/Ayushyash24/output/github-contribution-grid-snake.gif" width="100%" alt="Contribution Animation"/>
 </div>
