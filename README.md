@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Yash%20Dwivedi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=57&descSize=16" width="100%"/>
+  <img src="<img align="right" alt="Coding" height="220" width="280"
+  src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>" width="100%"/>
 </div>
 
 <div align="center">
